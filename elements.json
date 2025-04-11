@@ -11,9 +11,7 @@
 	{ "name": "helium", "symbol": "He",
 		"atomic number": 2,
 		"atomic mass": 4.0026,
-		"oxidation states": [0], 
-		"type": "nonmetal", 
-		"subtype": "noble gas"
+		"oxidation states": [0], "type": "nonmetal", "subtype": "noble gas"
 	},
 	{ "name": "lithium", "symbol": "Li",
 		"atomic number": 3,
@@ -593,6 +591,6 @@
 	{ "name": "oganesson", "symbol": "Og",
 		"atomic number": 118,
 		"atomic mass": 294,
-		"oxidation states": [0, +2], "type": "nonmetal", "subtype": "noble gas"
+		"oxidation states": [0, 2], "type": "nonmetal", "subtype": "noble gas"
 	}
 ]
